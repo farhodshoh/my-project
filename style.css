@@ -1,0 +1,16 @@
+.container{
+    width: 100vh;
+    display: flex;
+    justify-content: start;
+    flex-wrap: wrap;
+    gap: 10px 30px;
+    flex-direction: row;
+    flex-grow: ;
+
+}
+.container div{
+    width: 20%;
+    background-color: aqua;
+    padding: 30px;
+    border: 2px solid red;
+}
